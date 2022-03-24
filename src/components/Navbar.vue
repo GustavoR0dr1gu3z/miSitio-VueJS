@@ -1,8 +1,8 @@
 <template>
     <nav class="navbar navbar-expand-lg navbar-light bg-success bg-gradient" style="--bs-bg-opacity: .8;">
         <div class="container-fluid">
-            <router-link to="/"> 
-                <img src="http://www.ignia.mx/wp-content/uploads/2018/10/CredijustoLogo-1024x184.png" alt="" width="125" height="35" class="d-inline-block align-text-top">                
+            <router-link to="/" class="nombre"> 
+                Gustavo Rodriguez Calzada
             </router-link>
                 
             
@@ -58,4 +58,14 @@ export default {
 </script>
 
 <style>
+
+.nombre{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(15, 12, 160);
+    text-decoration: none;    
+}
+
+
+
 </style>
