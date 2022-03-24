@@ -81,6 +81,8 @@
 /*Display flex a las cartas*/
 #nav{
     display: flex;            
+    justify-content: space-around;
+    
 }
 
 /*Diseño del boton en las cartas*/
