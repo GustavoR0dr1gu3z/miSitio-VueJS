@@ -28,16 +28,27 @@
         <div class="cardMio" style="width: 25rem;">
             <div class="card-body">
                 <p class="card-text">
-Recientemente he ido a varias platicas, que me pueden ayudar a tener más conocimiento y así enriquecerme de las diferentes tecnologías que hay en el mundo laboral, así como sus aplicaciones.
-<br><br>El fin de mi página es darme a conocer, dar a conocer mi trabajo y poder adquirir experiencia en el ámbito laboral, poniendo a la entera disposición mis datos de contacto para quien requiera de mis conocimientos y servicios.
+                    Recientemente he ido a varias platicas, que me pueden ayudar a tener más conocimiento y así enriquecerme de las diferentes tecnologías que hay en el mundo laboral, así como sus aplicaciones.
+                    <br><br>El fin de mi página es darme a conocer, dar a conocer mi trabajo y poder adquirir experiencia en el ámbito laboral, poniendo a la entera disposición mis datos de contacto para quien requiera de mis conocimientos y servicios.
                 </p>
 
+                <p class="card-text">
+                    <a class="cv" download="GesCV_GustavoRodriguezCalzada" href="/GesCV_GustavoRodriguezCalzada.pdf">Descarga mi CV</a>
+                </p>
+                
 
                 <router-link class="btn btn-primary" to="/contacto"> 
-                    Contactame
+                    Contáctame
                 </router-link>
+                <!--Descargar un documento pdf en vue-->
+                
+
+    
             </div>
         </div>
+
+
+
             
     </div>
 </template>
@@ -83,6 +94,18 @@ Recientemente he ido a varias platicas, que me pueden ayudar a tener más conoci
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+.cv{
+    background-color: #4396a7;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 
 /*Diseño del boton cuando pasa el cursor de las cartas*/
 .btn:hover{
