@@ -26,7 +26,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "formacion-laboral" */ '../views/ExperienciaLaboral.vue')
   },
   {
-    path: 'participaciones',
+    path: '/participaciones',
     name: 'participaciones',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
@@ -34,7 +34,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "participaciones" */ '../views/Participaciones.vue')
   },
   {
-    path: 'proyectos',
+    path: '/proyectos',
     name: 'proyectos',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
@@ -42,7 +42,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "proyectos" */ '../views/Proyectos.vue')
   },
   {
-    path: 'servicios',
+    path: '/servicios',
     name: 'servicios',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
