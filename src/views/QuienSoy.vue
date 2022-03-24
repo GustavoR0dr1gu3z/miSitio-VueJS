@@ -30,8 +30,12 @@
                 <p class="card-text">
 Recientemente he ido a varias platicas, que me pueden ayudar a tener más conocimiento y así enriquecerme de las diferentes tecnologías que hay en el mundo laboral, así como sus aplicaciones.
 <br><br>El fin de mi página es darme a conocer, dar a conocer mi trabajo y poder adquirir experiencia en el ámbito laboral, poniendo a la entera disposición mis datos de contacto para quien requiera de mis conocimientos y servicios.
-
                 </p>
+
+
+                <router-link class="btn btn-primary" to="/contacto"> 
+                    Contactame
+                </router-link>
             </div>
         </div>
             
@@ -40,6 +44,7 @@ Recientemente he ido a varias platicas, que me pueden ayudar a tener más conoci
 
 <style scoped>
 
+/*Diseño de las cards*/
 .card, .cardMio{
     /*Margen en el top*/
     margin-top: 5%;
@@ -62,8 +67,31 @@ Recientemente he ido a varias platicas, que me pueden ayudar a tener más conoci
 }
 
 
+/*Display flex a las cartas*/
 #nav{
     display: flex;            
+}
+
+/*Diseño del boton en las cartas*/
+.btn{
+    margin-top: 15%;
+    margin-left: 33%;
+    background-color: #a1d0db;
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/*Diseño del boton cuando pasa el cursor de las cartas*/
+.btn:hover{
+    background-color: #00C9FF;
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 </style>
