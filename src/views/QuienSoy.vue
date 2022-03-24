@@ -11,13 +11,36 @@
                     <b>Phone:</b> (+52) 5611290464 <br>
                 </p>
             </div>
-</div>
+        </div>
+
+        <div class="cardMio" style="width: 25rem;">
+            <div class="card-body">
+                <p class="card-text">
+                    <b>Acerca de mí</b>
+                </p>
+                <p>
+                    Soy un pasante de Ingeniería en Computación de la Universidad Autónoma del Estado de México (UAEMex), en estos momentos me encuentro en proceso de titulación para obtener mi titulo realizando una tesis "Chatbot", realizo diversos proyectos fuera de lo académico pues resulta enriquecedor en cuanto a experiencia y conocimientos.
+                    <br><br>He participado en varios eventos, como por ejemplo en el UNAMxHacks (Hackaton), donde mi proyecto fue realizar una página web con realidad aumentada y audiolibros, el fin de dicha página era transmitir conocimiento a los usuarios, específicamente de "Cultura".
+                </p>
+            </div>
+        </div>
+        
+        <div class="cardMio" style="width: 25rem;">
+            <div class="card-body">
+                <p class="card-text">
+Recientemente he ido a varias platicas, que me pueden ayudar a tener más conocimiento y así enriquecerme de las diferentes tecnologías que hay en el mundo laboral, así como sus aplicaciones.
+<br><br>El fin de mi página es darme a conocer, dar a conocer mi trabajo y poder adquirir experiencia en el ámbito laboral, poniendo a la entera disposición mis datos de contacto para quien requiera de mis conocimientos y servicios.
+
+                </p>
+            </div>
+        </div>
+            
     </div>
 </template>
 
 <style scoped>
 
-.card{
+.card, .cardMio{
     /*Margen en el top*/
     margin-top: 5%;
     /*Margen del lado izquierdo*/
@@ -35,8 +58,12 @@
     /* Borde redondo */
     border-radius: 10px;
     /* Sombra en la carta */
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);    
-    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);        
+}
+
+
+#nav{
+    display: flex;            
 }
 
 </style>
