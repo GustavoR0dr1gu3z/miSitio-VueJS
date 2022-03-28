@@ -55,11 +55,14 @@
 
 <style scoped>
 
+/*Img*/
+img{
+    width: 100%;
+    height: auto;    
+}
+
 /*Diseño de las cards*/
 .card, .cardMio{
-    /* Centrar verticalmente */
-
-    
     /*Borde*/
     border: 1px solid rgb(142, 209, 221);
     /*Color de fondo*/
