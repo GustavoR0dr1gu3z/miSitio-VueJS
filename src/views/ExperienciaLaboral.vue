@@ -4,7 +4,7 @@
 		<h1 class="h1 text-center" id="pageHeaderTitle">Mi Trayectoria Laboral</h1>
 
 		<article class="postcard">
-			<a class="postcard__img_link" href="#">
+			<a class="postcard__img_link">
 				<img class="postcard__img" src="https://ushuaiacontenidos.com/wp-content/uploads/2018/03/logo-ok-1.png" alt="Ushuaia Contenidos" />	
 			</a>
 			<div class="postcard__text">
