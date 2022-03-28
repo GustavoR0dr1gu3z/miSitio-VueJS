@@ -19,7 +19,12 @@
 				<div class="postcard__preview-txt">
                     Empresa que se encarga de redactar contenidos especializados en un área en específico.<br>     
                     <hr>
-                    sasas
+                    Mi cargo en Ushuaia Contenidos es: <br>
+                    <ul>                    
+                        - Mantenimiento de la aplicación web alojada en WordPress, en sus diferentes servicios que ofrecen la empresa. <br>
+                        - Desarrollo de nuevas funcionalidades en la aplicación web. <br>
+                        - Soporte técnico a los empleados de la empresa en remoto y presencial.
+                    </ul>
                 </div>
 			</div>
 		</article>	        
@@ -50,6 +55,8 @@
     background-color: #ffffff;
     border-radius: 10px;
     padding: 30px;
+    width: 100%;
+    height: 100%;
 }
 
 /* Color del fondo 
