@@ -69,7 +69,7 @@
     /*Alineación del texto*/
     text-align: left;
     /*Tamaño de fuente*/
-    font-size: 18px;
+    font-size: 16px;
     /* Borde redondo */
     border-radius: 10px;
     /* Sombra en la carta */
