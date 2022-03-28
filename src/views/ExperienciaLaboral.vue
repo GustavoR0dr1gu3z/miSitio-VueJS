@@ -17,7 +17,9 @@
 				</div>
 				<div class="postcard__bar"></div>
 				<div class="postcard__preview-txt">
-                    Empresa del área educativa dónde 
+                    Empresa que se encarga de redactar contenidos especializados en un área en específico.<br>     
+                    <hr>
+                    sasas
                 </div>
 			</div>
 		</article>	        
