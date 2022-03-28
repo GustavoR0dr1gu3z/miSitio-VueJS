@@ -5,7 +5,7 @@
 
 		<article class="postcard">
 			<a class="postcard__img_link" href="#">
-				<img class="postcard__img" src="https://ushuaiacontenidos.com/wp-content/uploads/2018/03/logo-ok-1.png" alt="Image Title" />	
+				<img class="postcard__img" src="https://ushuaiacontenidos.com/wp-content/uploads/2018/03/logo-ok-1.png" alt="Ushuaia Contenidos" />	
 			</a>
 			<div class="postcard__text">
 				<h1 class="postcard__title red">Ushuaia Contenidos</h1>
@@ -21,6 +21,8 @@
                 </div>
 			</div>
 		</article>	        
+
+        
 	</div>
 </section>
 </template>
