@@ -83,7 +83,7 @@
 
 /* Titulo de MI TRAYECTORIA LABORAL */
 #pageHeaderTitle {
-	margin: 2rem 0;
+	
 	text-transform: uppercase;
 	text-align: center;
 	font-size: 2.5rem;
