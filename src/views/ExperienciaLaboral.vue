@@ -1,28 +1,24 @@
 <template>
-    <section class="dark">
+    <section class="fontColor">
 	<div class="container py-4">
 		<h1 class="h1 text-center" id="pageHeaderTitle">Mi Trayectoria Laboral</h1>
 
-		<article class="postcard dark red">
+		<article class="postcard">
 			<a class="postcard__img_link" href="#">
 				<img class="postcard__img" src="https://ushuaiacontenidos.com/wp-content/uploads/2018/03/logo-ok-1.png" alt="Image Title" />	
 			</a>
 			<div class="postcard__text">
-				<h1 class="postcard__title red"><a href="#">Podcast Title</a></h1>
+				<h1 class="postcard__title red">Ushuaia Contenidos</h1>
 				<div class="postcard__subtitle small">
 					<time datetime="2020-05-25 12:00:00">
-						<i class="fas fa-calendar-alt mr-2"></i>Mon, May 25th 2020
+						<i class="fas fa-calendar-alt mr-2">Lunes, 7 de Mayo del 2022</i>
+                        <br><br>
 					</time>
 				</div>
 				<div class="postcard__bar"></div>
-				<div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
-				<ul class="postcard__tagbox">
-					<li class="tag__item"><i class="fas fa-tag mr-2"></i>Podcast</li>
-					<li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
-					<li class="tag__item play red">
-						<a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
-					</li>
-				</ul>
+				<div class="postcard__preview-txt">
+                    Empresa del área educativa dónde 
+                </div>
 			</div>
 		</article>	        
 	</div>
@@ -32,6 +28,19 @@
 
 <style scoped>
 
+/* Diseño de la carta */
+.postcard{
+    margin-top: 5%;
+    margin-left: 5%;
+    border: 1px solid rgb(142, 209, 221);
+    background-color: #a1d0db;
+    color: black;
+    text-align: left;
+    font-size: 18px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);        
+}
+
 /* Imagen de la carta */
 .postcard__img{
     background-color: #ffffff;
@@ -39,16 +48,26 @@
     padding: 30px;
 }
 
-/* Color del fondo */
-.dark {
-	background: #110f16;
+/* Color del fondo 
+.fontColor {
+	background: #8879ad;
 }
+*/
 
 /* Titulo de la empresa */
-a,
-a:hover {
-	text-decoration: none;
-	transition: color 0.3s ease-in-out;
+ .postcard__title{
+    color: #142a2e;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.postcard__preview-txt, .fas{
+    color: #142a2e;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: left;
 }
 
 /* Titulo de MI TRAYECTORIA LABORAL */
@@ -57,6 +76,11 @@ a:hover {
 	text-transform: uppercase;
 	text-align: center;
 	font-size: 2.5rem;
+    color: #310b0b;
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 2rem;
 }
 
 /* Cartas */
