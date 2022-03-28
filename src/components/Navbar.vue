@@ -40,7 +40,7 @@
                     </li>   
                     <li class="nav-item me-4">                
                         <router-link class="nav-link active" to="/contacto"> 
-                            Contactame
+                            Contáctame
                         </router-link>
                     </li> 
 
