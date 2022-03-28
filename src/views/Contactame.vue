@@ -37,12 +37,12 @@
                     </div>
                     <div class="socials">
                         <ul>
-                        <li><a href="https://www.facebook.com/Gustavo.Calzada1710"><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
-                        <li><a href="https://www.instagram.com/gustavo_calzada/?hl=es-la"><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
-                        <li><a href="https://twitter.com/GustavoCal17"><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
-                        <li><a href="https://github.com/GustavoR0dr1gu3z"><span class="ico-circle"><i class="ion-social-github"></i></span></a></li>
-                        <li><a href="https://www.youtube.com/channel/UC6jTSoykQbaNwTI5VlEptvw?view_as=subscriber"><span class="ico-circle"><i class="ion-social-youtube"></i></span></a></li>
-                        <li><a href="https://www.linkedin.com/in/gustavo-rodriguez-calzada-9a0720196/"><span class="ico-circle"><i class="ion-social-linkedin"></i></span></a></li>
+                        <li><a href="https://www.facebook.com/Gustavo.Calzada1710"><span class="ico-circle"><i class="bi bi-facebook"></i></span></a></li>
+                        <li><a href="https://www.instagram.com/gustavo_calzada/"><span class="ico-circle"><i class="bi bi-instagram"></i></span></a></li>
+                        <li><a href="https://twitter.com/GustavoCal17"><span class="ico-circle"><i class="bi bi-twitter"></i></span></a></li>
+                        <li><a href="https://github.com/GustavoR0dr1gu3z"><span class="ico-circle"><i class="bi bi-github"></i></span></a></li>
+                        <li><a href="https://www.youtube.com/channel/UC6jTSoykQbaNwTI5VlEptvw?view_as=subscriber"><span class="ico-circle"><i class="bi bi-youtube"></i></span></a></li>
+                        <li><a href="https://www.linkedin.com/in/gustavo-rodriguez-calzada-9a0720196/"><span class="ico-circle"><i class="bi bi-linkedin"></i></span></a></li>
                         </ul>
                     </div>
                     </div>
