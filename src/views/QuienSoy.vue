@@ -59,8 +59,6 @@
 .card, .cardMio{
     /*Margen en el top*/
     margin-top: 5%;
-    /*Margen del lado izquierdo*/
-    margin-left: 5%;
     /*Borde*/
     border: 1px solid rgb(142, 209, 221);
     /*Color de fondo*/
@@ -82,7 +80,9 @@
 #nav{
     display: flex;            
     justify-content: space-around;
-    
+    /*Centrar elementos*/
+    align-items: center;
+        
 }
 
 /*Diseño del boton en las cartas*/
