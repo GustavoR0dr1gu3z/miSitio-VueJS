@@ -57,8 +57,9 @@
 
 /*Diseño de las cards*/
 .card, .cardMio{
-    /*Margen en el top*/
-    margin-top: 5%;
+    /* Centrar verticalmente */
+
+    
     /*Borde*/
     border: 1px solid rgb(142, 209, 221);
     /*Color de fondo*/
@@ -82,7 +83,7 @@
     justify-content: space-around;
     /*Centrar elementos*/
     align-items: center;
-        
+    padding-top: 1%;    
 }
 
 /*Diseño del boton en las cartas*/
