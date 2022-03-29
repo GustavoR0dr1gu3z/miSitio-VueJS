@@ -33,6 +33,34 @@
                 <div class="col-md-4">
                 <div class="service-box">
                     <div class="service-ico">
+                    <span class="ico-circle"><i class="bi bi-file-earmark-code-fill"></i></span>
+                    </div>
+                    <div class="service-content">
+                    <h2 class="s-title">Desarrollo Web</h2>
+                    <p class="s-description text-center">
+                    </p>
+                    </div>
+                </div>
+                </div>
+
+
+                <div class="col-md-4">
+                <div class="service-box">
+                    <div class="service-ico">
+                    <span class="ico-circle"><i class="bi bi-hammer"></i></span>
+                    </div>
+                    <div class="service-content">
+                    <h2 class="s-title">Mantenimiento de aplicaciones web</h2>
+                    <p class="s-description text-center">
+                    </p>
+                    </div>
+                </div>
+                </div>
+
+
+                <div class="col-md-4">
+                <div class="service-box">
+                    <div class="service-ico">
                     <span class="ico-circle"><i class="bi bi-phone"></i></span>
                     </div>
                     <div class="service-content">
@@ -56,6 +84,19 @@
                 </div>
                 </div>
 
+
+                <div class="col-md-4">
+                <div class="service-box">
+                    <div class="service-ico">
+                    <span class="ico-circle"><i class="bi bi-pc-display-horizontal"></i></span>
+                    </div>
+                    <div class="service-content">
+                    <h2 class="s-title">Aplicaciones de Escritorio</h2>
+                    <p class="s-description text-center">
+                    </p>
+                    </div>
+                </div>
+                </div>
             </div>
             </div>
         </section>
