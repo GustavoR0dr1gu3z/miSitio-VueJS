@@ -70,8 +70,8 @@
 		</article>	
 
     		<article class="postcard">
-			<a href="https://github.com/GustavoR0dr1gu3z/UNAMxHack" class="postcard__img_link" v>
-				<img class="postcard__img" src="https://miro.medium.com/max/702/1*BBa6MflsOYrWc_8cNa2-3g.png" alt="Ushuaia Contenidos" />	
+			<a href="https://github.com/GustavoR0dr1gu3z/API-REST-Web-Service-con-Python-y-MySQL" class="postcard__img_link" v>
+				<img class="postcard__img" src="https://miro.medium.com/max/702/1*BBa6MflsOYrWc_8cNa2-3g.png" alt="API-Rest Python" />	
 			</a>
 			<div class="postcard__text">
 				<h1 class="postcard__title red"> API-REST Web-Service con Python y MySQL</h1>
@@ -83,13 +83,93 @@
 				</div>
 				<div class="postcard__bar"></div>
 				<div class="postcard__preview-txt">
-          
+          Curso de Udemy, en donde se realiza una web service hecha en Python, utilizando el software de PostMan, para los consumos y creaciones de las API corriendolo en un entorno virtual y utilizando como base de datos: SQL  
         </div>
 
 			</div>
 		</article>	
 
-    		<article class="postcard">
+    <article class="postcard">
+			<a href="https://github.com/GustavoR0dr1gu3z/UNAMxHack" class="postcard__img_link" v>
+				<img class="postcard__img" src="https://i.ytimg.com/vi/OhnxU8xALtg/maxresdefault.jpg" alt="ArduinoHC05" />	
+			</a>
+			<div class="postcard__text">
+				<h1 class="postcard__title red">App Control de Secuencias de Leds Usando un Modulo Bluetooth HC05</h1>
+				<div class="postcard__subtitle small">
+					<time datetime="2020-05-25 12:00:00">
+						<i class="fas fa-calendar-alt mr-2">25/Mayo/2021</i>
+                        <br><br>
+					</time>
+				</div>
+				<div class="postcard__bar"></div>
+				<div class="postcard__preview-txt">                    
+                    Aplicación movil realizada en el software Android Studio, esta aplicación se conecta a un Módulo Bluetooth de Arduino HC05, esto para mostrar una secuencia de leds, dependiendo del botón que se seleccione en nuestro telefono celular, hará una acción en las secuencias de leds.
+        </div>
+
+			</div>
+		</article>	
+
+<article class="postcard">
+			<a href="https://github.com/GustavoR0dr1gu3z/UNAMxHack" class="postcard__img_link" v>
+				<img class="postcard__img" src="https://gustavor0dr1gu3z.github.io/img/difusion.png" alt="Ushuaia Contenidos" />	
+			</a>
+			<div class="postcard__text">
+				<h1 class="postcard__title red">Página web realizada en UNAMxHacks</h1>
+				<div class="postcard__subtitle small">
+					<time datetime="2020-05-25 12:00:00">
+						<i class="fas fa-calendar-alt mr-2">26/Octubre/2019</i>
+                        <br><br>
+					</time>
+				</div>
+				<div class="postcard__bar"></div>
+				<div class="postcard__preview-txt">
+                    Página web donde nosotros impartimos cultura de toda la república mexicana, anexandop dicho mapa y dividiendo los estados en botones, y cada uno de ellos tendrá información (Monumentos importantes, Datos interesantes) así como una imagen que deberá ser escaneada con una aplicación móvil que realizamos, y se verá en realidad aumentada. <br> Además contiene un audiolibro para la fácil lectura de algunas personas.
+        </div>
+
+			</div>
+		</article>	
+
+<article class="postcard">
+			<a href="https://github.com/GustavoR0dr1gu3z/UNAMxHack" class="postcard__img_link" v>
+				<img class="postcard__img" src="https://gustavor0dr1gu3z.github.io/img/difusion.png" alt="Ushuaia Contenidos" />	
+			</a>
+			<div class="postcard__text">
+				<h1 class="postcard__title red">Página web realizada en UNAMxHacks</h1>
+				<div class="postcard__subtitle small">
+					<time datetime="2020-05-25 12:00:00">
+						<i class="fas fa-calendar-alt mr-2">26/Octubre/2019</i>
+                        <br><br>
+					</time>
+				</div>
+				<div class="postcard__bar"></div>
+				<div class="postcard__preview-txt">
+                    Página web donde nosotros impartimos cultura de toda la república mexicana, anexandop dicho mapa y dividiendo los estados en botones, y cada uno de ellos tendrá información (Monumentos importantes, Datos interesantes) así como una imagen que deberá ser escaneada con una aplicación móvil que realizamos, y se verá en realidad aumentada. <br> Además contiene un audiolibro para la fácil lectura de algunas personas.
+        </div>
+
+			</div>
+		</article>	
+
+<article class="postcard">
+			<a href="https://github.com/GustavoR0dr1gu3z/UNAMxHack" class="postcard__img_link" v>
+				<img class="postcard__img" src="https://gustavor0dr1gu3z.github.io/img/difusion.png" alt="Ushuaia Contenidos" />	
+			</a>
+			<div class="postcard__text">
+				<h1 class="postcard__title red">Página web realizada en UNAMxHacks</h1>
+				<div class="postcard__subtitle small">
+					<time datetime="2020-05-25 12:00:00">
+						<i class="fas fa-calendar-alt mr-2">26/Octubre/2019</i>
+                        <br><br>
+					</time>
+				</div>
+				<div class="postcard__bar"></div>
+				<div class="postcard__preview-txt">
+                    Página web donde nosotros impartimos cultura de toda la república mexicana, anexandop dicho mapa y dividiendo los estados en botones, y cada uno de ellos tendrá información (Monumentos importantes, Datos interesantes) así como una imagen que deberá ser escaneada con una aplicación móvil que realizamos, y se verá en realidad aumentada. <br> Además contiene un audiolibro para la fácil lectura de algunas personas.
+        </div>
+
+			</div>
+		</article>	
+
+<article class="postcard">
 			<a href="https://github.com/GustavoR0dr1gu3z/UNAMxHack" class="postcard__img_link" v>
 				<img class="postcard__img" src="https://gustavor0dr1gu3z.github.io/img/difusion.png" alt="Ushuaia Contenidos" />	
 			</a>
