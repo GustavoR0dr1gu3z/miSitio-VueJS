@@ -23,7 +23,8 @@
                     <ul>                    
                         - Mantenimiento de la aplicación web alojada en WordPress, en sus diferentes servicios que ofrecen la empresa. <br>
                         - Desarrollo de nuevas funcionalidades en la aplicación web. <br>
-                        - Soporte técnico a los empleados de la empresa en remoto y presencial.
+                        - Soporte técnico a los empleados de la empresa en remoto y presencial. <br>
+                        - Diseño y Mantenimiento de un sistema de tickets dentro de la empresa.
                     </ul>
                 </div>
 			</div>
